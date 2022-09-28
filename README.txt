@@ -1,0 +1,2 @@
+Lo scopo di questo progetto è rispondere alle 13 domande di ricerca (presenti nel file), lavorando sui 5 diversi dataset (link presenti nel file) contenenti dati riguardanti libri venduti online ed i relativi compratori.
+Il progetto è stato sviluppato in Python, utilizzando principalmente le librerie pandas e numpy.
